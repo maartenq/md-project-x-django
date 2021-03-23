@@ -1,3 +1,5 @@
+# project/database.py
+
 import os
 
 from django.conf import settings
